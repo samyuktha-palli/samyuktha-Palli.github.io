@@ -55,7 +55,7 @@ a:hover {
 
 .about, .social-container, .collaboration, .projects {
   margin: 20px 50px; }
-  
+
 .image{
   margin: 20px 50px; border-radius: 15%; }
 
@@ -134,7 +134,7 @@ a:hover {
   align-items: center;
   flex-wrap: wrap;
   height: auto;
-  font-family: 'Poppins', sans-serif; 
+  font-family: 'Poppins', sans-serif;
   padding-left: 8%;}
 
 .gallery-flex > * {
@@ -183,7 +183,7 @@ a:hover {
   flex-direction: column;
   align-items: center; }
   .collaboration .title {
-    
+
     position: relative;
     z-index: 2; }
     .collaboration .title:before {
@@ -271,7 +271,7 @@ a:hover {
     font-family: 'Lato', sans-serif;
     font-size: 16px;
     border-radius: 20px;
-    
+
     margin-top: 20px;
     border: 0;
     cursor: pointer; }
@@ -334,7 +334,7 @@ a:hover {
     .social-container .read-more, .social-container .social, .social-container .contact {
       margin: 0;
       margin-bottom: 10px; } }
-      
+
       a.button1{
         display:inline-block;
         padding: 0.05em 0.5em;
@@ -345,7 +345,7 @@ a:hover {
         text-decoration:none;
         font-family:'Roboto',sans-serif;
         font-weight:100;
-        
+
         text-align:center;
         transition: all 0.2s;
         }
@@ -364,9 +364,9 @@ a:hover {
           color: white;
           padding: 8px 12px;
           cursor: pointer;
-         
+
         }
-        
+
         /* Darker background on mouse-over */
         /* .btn:hover {
           background-color: RoyalBlue;
